@@ -3,10 +3,10 @@ module.exports = {
     title: `mpon Blog`,
     author: {
       name: `mpon`,
-      summary: `who lives and works in Japan building useful things.`,
+      summary: `iOS→Scala→インフラなおじさん技術メモ`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `mponのブログ`,
+    siteUrl: `https://www.mpon.me/`,
     social: {
       twitter: `_mpon`,
     },
